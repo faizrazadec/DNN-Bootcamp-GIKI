@@ -1,3 +1,6 @@
 # ignoreing the unnecessory files
 /*\.zip
 /*\.winrar
+*.txt
+*.docx
+**/.ipynb_checkpoints/
