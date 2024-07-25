@@ -5,3 +5,4 @@
 *.docx
 **/.ipynb_checkpoints/
 **/Data/
+/*\.keras
