@@ -4,3 +4,4 @@
 *.txt
 *.docx
 **/.ipynb_checkpoints/
+**/Data/
