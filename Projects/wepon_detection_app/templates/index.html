@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weapon Detection Application</title>
+</head>
+<body>
+    <h1>Weapon Detection Application</h1>
+    <form action="/detect_image" method="post" enctype="multipart/form-data">
+        <label for="image">Select an image:</label>
+        <input type="file" name="image" id="image" accept="image/*">
+        <button type="submit">Detect in Image</button>
+    </form>
+    <br>
+    <form action="/detect_video" method="post" enctype="multipart/form-data">
+        <label for="video">Select a video:</label>
+        <input type="file" name="video" id="video" accept="video/*">
+        <button type="submit">Detect in Video</button>
+    </form>
+    <br>
+    <form action="/detect_live" method="post">
+        <button type="submit">Detect in Live Cam</button>
+    </form>
+</body>
+</html>
