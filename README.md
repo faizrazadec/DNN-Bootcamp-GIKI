@@ -1,7 +1,7 @@
 # DNN Bootcamp '24 Organized by Asher Aziz Foundation in collaboration with GIKI
 Working with a diverse group of individuals was an amazing experience. I am thrilled to announce that I secured the **First Position** in this boot camp, competing against 54 talented candidates.
 
-#Projects
+# Projects
 ## Space Adventure AI
 [Explore Here](https://github.com/faizrazadec/DNN-Bootcamp-GIKI/tree/main/Projects/Space%20Adventure%20AI)
 
