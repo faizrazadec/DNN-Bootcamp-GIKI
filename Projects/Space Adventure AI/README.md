@@ -6,7 +6,7 @@ Welcome to **Space Adventure AI**, a thrilling Flappy Bird-style game where you 
 
 ## 🎮 Project Overview
 
-**Space Adventure AI** is more than just a game; it’s an exploration of how neural networks can be applied to real-time gaming scenarios. This project was developed during the **AI Bootcamp** at **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)**, sponsored by **SkyElectric Pvt. Ltd.**, under the guidance of **[Sri Usama](https://www.linkedin.com/in/usamajanjua9/)**.
+**Space Adventure AI** is more than just a game; it’s an exploration of how neural networks can be applied to real-time gaming scenarios. This project was developed during the **AI Bootcamp** at **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)**, sponsored by **SkyElectric Pvt. Ltd.**.
 
 ---
 
