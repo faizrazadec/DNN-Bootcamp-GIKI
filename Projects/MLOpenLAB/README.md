@@ -25,7 +25,7 @@ The tool offers a seamless experience for anyone working with data. From loading
 3. **Model Selection, Training, and Evaluation** 🏆  
 4. **Personalized Interaction** 💬 (Thanks to the Ollama API)
 
-This project was inspired by my passion for simplifying machine learning workflows and my experiences during the **DNN Bootcamp** held at **GIK** in the summer of 2024. Under the guidance of **[Sir Usama](https://www.linkedin.com/in/usamajanjua9/)**, we learned a great deal about deep learning and practical machine learning techniques.
+This project was inspired by my passion for simplifying machine learning workflows and my experiences during the **DNN Bootcamp** held at **GIK** in the summer of 2024.
 
 ---
 
